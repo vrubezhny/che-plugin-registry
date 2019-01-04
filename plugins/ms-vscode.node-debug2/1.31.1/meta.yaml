@@ -1,0 +1,10 @@
+id: ms-vscode.node-debug2
+version: 1.31.1
+type: VS Code extension
+name: Node Debug
+title: Node.js debugging support
+description: Node Debug is the debugger for Node.js versions >= 8.0 https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug2
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+attributes:
+  extension: "vscode:extension/ms-vscode.node-debug2"
+  container-image: "abazko/ms-vscode.node-debug2"
