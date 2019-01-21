@@ -1,0 +1,10 @@
+id: ms-vscode.Go
+version: 0.8.0
+type: VS Code extension
+name: Go
+title: Go for Visual Studio Code
+description: Rich Go language support for Visual Studio Code https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+attributes:
+  extension: "vscode:extension/ms-vscode.Go"
+  container-image: "abazko/ms-vscode.go"
