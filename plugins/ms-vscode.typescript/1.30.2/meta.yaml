@@ -1,6 +1,6 @@
 id: ms-vscode.typescript
 version: 1.30.2
-type: Che plugin
+type: Che Plugin
 name: Typescript
 title: Typescript language features
 description: Typescript language features
