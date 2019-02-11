@@ -7,4 +7,4 @@ description: Node Debug is the debugger for Node.js versions >= 8.0 https://mark
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 attributes:
   extension: "vscode:extension/ms-vscode.node-debug2"
-  container-image: "abazko/remote-plugin:latest"
+  containerImage: "https://github.com/eclipse/che-plugin-registry/blob/ab/debug-vscode-plugins/plugins/ms-vscode.node-debug/1.30.4/meta.yaml"
