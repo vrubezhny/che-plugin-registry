@@ -8,3 +8,4 @@ icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 attributes:
   extension: "vscode:extension/ms-vscode.node-debug2"
   containerImage: "abazko/eclipse-che-theia-remote:nightly"
+  container-image: "abazko/eclipse-che-theia-remote:nightly"
