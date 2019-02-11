@@ -1,4 +1,4 @@
-id: redhat.java
+id: org.eclipse.che.vscode-redhat.java
 version: 0.0.1
 type: VS Code extension
 name: Java Language Server
@@ -7,4 +7,4 @@ description: Java Linting, Intellisense, formatting, refactoring, Maven/Gradle s
 icon: https://redhat.gallerycdn.vsassets.io/extensions/redhat/java/0.37.0/1547743724453/Microsoft.VisualStudio.Services.Icons.Default
 attributes:
   extension: "vscode:extension/redhat.java"
-  container-image: "vsvydenko/che-theia-dev"
+  container-image: "vsvydenko/theia-remote-plugin-java8:latest"
