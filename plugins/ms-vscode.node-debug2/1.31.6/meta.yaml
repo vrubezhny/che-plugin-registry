@@ -7,5 +7,5 @@ description: Node Debug is the debugger for Node.js versions >= 8.0 https://mark
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 attributes:
   extension: "vscode:extension/ms-vscode.node-debug2"
-  containerImage: "vsvydenko/eckipse-che-theia-remote:test"
-  container-image: "vsvydenko/eckipse-che-theia-remote:test"
+  containerImage: "vsvydenko/theia-remote-plugin-java8:latest"
+  container-image: "vsvydenko/theia-remote-plugin-java8:latest"
