@@ -1,5 +1,5 @@
 id: ms-vscode.node-debug
-version: 1.30.4
+version: 1.31.2
 type: VS Code extension
 name: Node Debug (legacy)
 title: Node.js debugging support
