@@ -1,0 +1,10 @@
+id: org.eclipse.che.vscode-java-debug
+version: 0.16.0
+type: VS Code extension
+name: Debugger for Java
+title: Debugger for Java
+description: A lightweight Java debugger for Visual Studio Code
+icon: https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-java-debug/0.16.0/1544606877871/Microsoft.VisualStudio.Services.Icons.Default
+attributes:
+  extension: "vscode:extension/vscjava.vscode-java-debug"
+  container-image: "vsvydenko/theia-remote-plugin-java8:latest"
