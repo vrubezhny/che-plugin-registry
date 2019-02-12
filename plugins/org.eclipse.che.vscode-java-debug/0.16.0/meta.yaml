@@ -8,3 +8,4 @@ icon: https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-java-debu
 attributes:
   extension: "vscode:extension/vscjava.vscode-java-debug"
   container-image: "vsvydenko/theia-remote-plugin-java8:latest"
+  containerImage: "vsvydenko/theia-remote-plugin-java8:latest"
