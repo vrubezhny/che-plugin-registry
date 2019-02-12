@@ -8,3 +8,4 @@ icon: https://redhat.gallerycdn.vsassets.io/extensions/redhat/java/0.37.0/154774
 attributes:
   extension: "vscode:extension/redhat.java"
   container-image: "vsvydenko/theia-remote-plugin-java8:latest"
+  containerImage: "vsvydenko/theia-remote-plugin-java8:latest"
