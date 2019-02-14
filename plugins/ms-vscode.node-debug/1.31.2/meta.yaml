@@ -7,4 +7,4 @@ description: Node Debug is the legacy debugger for Node.js https://marketplace.v
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 attributes:
   extension: "vscode:extension/ms-vscode.node-debug"
-  containerImage: "abazko/eclipse-che-theia-remote"
+  containerImage: "abazko/che-theia-endpoint-runtime:nightly"
