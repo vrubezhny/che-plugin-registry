@@ -1,10 +1,10 @@
-id: ms-vscode.node-debug
+id: org.eclipse.che.vscode.k8s
 version: 1.31.2
 type: VS Code extension
-name: Node Debug (legacy)
-title: Node.js debugging support
-description: Node Debug is the legacy debugger for Node.js https://marketplace.visualstudio.com/items?itemName=ms-vscode.node-debug
-icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+name: k8s-plugin
+title: k8s extension
+description: k8s extension
+icon: https://www.eclipse.org/che/images/ico/16x16.png
 attributes:
-  extension: "vscode:extension/ms-vscode.node-debug"
+  extension: "vscode:extension/ms-kubernetes-tools.vscode-kubernetes-tools"
   containerImage: "abazko/che-theia-endpoint-runtime:nightly"
