@@ -1,0 +1,14 @@
+id: ms-vscode.php.intellisense
+version: 2.3.10
+type: VS Code extension
+name: PHP
+title: PHP IntelliSense language features
+description: PHP language features
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+url: https://marketplace.visualstudio.com/_apis/public/gallery/publishers/felixfbecker/vsextensions/php-intellisense/2.3.10/vspackage
+publisher: Red Hat, Inc.
+repository: https://github.com/Microsoft/vscode
+category: Language
+firstPublicationDate: "2019-03-15"
+attributes:
+  containerImage: "eclipse/php:latest"
