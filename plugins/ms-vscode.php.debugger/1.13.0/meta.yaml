@@ -1,0 +1,14 @@
+id: ms-vscode.php.debugger
+version: 1.13.0
+type: VS Code extension
+name: PHP
+title: PHP Debugger
+description: PHP Debugger
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+url: https://drive.google.com/file/d/1JWVKiNFQS8cvSqgqnJ0kToEbtUaBkXS9/view?usp=sharing
+publisher: Red Hat, Inc.
+repository: https://github.com/Microsoft/vscode
+category: Language
+firstPublicationDate: "2019-04-16"
+attributes:
+  containerImage: "eclipse/php:latest"
