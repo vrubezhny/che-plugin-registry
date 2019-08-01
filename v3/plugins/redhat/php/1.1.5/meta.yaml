@@ -1,7 +1,7 @@
 apiVersion: v2
 publisher: redhat
 name: php
-version: latest
+version: 1.1.5
 displayName: PHP Intelephense
 title: PHP Intelephense
 description: This VS Code extension provides support for creating and editing PHP documents, based on the PHP Intelephense language server.
@@ -16,4 +16,4 @@ spec:
       name: php-intelephense
       memoryLimit: "1000Mi"
   extensions:
-    - https://raw.githubusercontent.com/vrubezhny/che-plugin-registry/cpr13700/v3/plugins/redhat/php/bmewburn.vscode-intelephense-client-1.1.1.vsix
+    - https://github.com/bmewburn/vscode-intelephense/releases/download/v1.1.5/vscode-intelephense-client-1.1.5.vsix

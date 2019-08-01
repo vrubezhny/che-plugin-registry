@@ -1,7 +1,7 @@
 apiVersion: v2
 publisher: redhat
 name: php
-version: latest
+version: 1.2.3
 displayName: PHP Intelephense
 title: PHP Intelephense
 description: This VS Code extension provides support for creating and editing PHP documents, based on the PHP Intelephense language server.
@@ -9,11 +9,11 @@ type: VS Code extension
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 repository: https://github.com/bmewburn/vscode-intelephense
 category: Language
-firstPublicationDate: "2019-07-31"
+firstPublicationDate: "2019-11-20"
 spec:
   containers:
-    - image: "eclipse/che-remote-plugin-php7:7.0.0-next"
+    - image: "docker.io/eclipse/che-remote-plugin-php7:next"
       name: php-intelephense
       memoryLimit: "1000Mi"
   extensions:
-    - https://raw.githubusercontent.com/vrubezhny/che-plugin-registry/cpr13700/v3/plugins/redhat/php/bmewburn.vscode-intelephense-client-1.1.1.vsix
+    - https://raw.githubusercontent.com/vrubezhny/che-plugin-registry/cpr13700/v3/plugins/redhat/php/vscode-intelephense-client-1.2.3.vsix
